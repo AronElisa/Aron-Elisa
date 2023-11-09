@@ -1,0 +1,27 @@
+<style>
+  h1, h2, h3 {
+ font-family: 'Caveat', cursive;
+  }
+  h1, h2 {
+  text-decoration-line: underline;
+}
+body {
+  background-color: lightgray;
+}
+h1,h2,h3  {
+  background-color: gray;
+}
+
+table {
+  text-align: center;
+}
+table {
+  border: 1px solid;
+}
+table {
+border-collapse: collapse;
+}
+h4 {
+font-family: 'Caveat', cursive;
+}
+</style>
